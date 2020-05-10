@@ -110,7 +110,7 @@ GameObject:
   - component: {fileID: 4695985011552662759}
   - component: {fileID: 4695985011552662760}
   - component: {fileID: 4695985011552662758}
-  - component: {fileID: 352815969322408066}
+  - component: {fileID: 114392487911315536}
   m_Layer: 0
   m_Name: Spectator
   m_TagString: Untagged
@@ -166,7 +166,7 @@ Camera:
     m_Bits: 4294967295
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 1
+  m_TargetDisplay: 0
   m_TargetEye: 0
   m_HDR: 1
   m_AllowMSAA: 1
@@ -190,8 +190,7 @@ MonoBehaviour:
   Skin: {fileID: 4695985012131290477}
   cloud: {fileID: 4695985012024240668}
   textCloud: {fileID: 4695985012269341668}
-  UiPrefab: {fileID: 9089212032744546446, guid: 995c8e12eb3c88e4e978d27d6f8c957e,
-    type: 3}
+  UiPrefab: {fileID: 988308493976630395, guid: 2e145ed3afed4434394633c072d8d857, type: 3}
   cameraToLookAt: {fileID: 0}
   timeForCloud: 10
   SkinsName:
@@ -202,7 +201,7 @@ MonoBehaviour:
   changeSkin: 101
   sayButton: 116
   rotation: 0
---- !u!114 &352815969322408066
+--- !u!114 &114392487911315536
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -214,8 +213,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 436275a13d4459746955fc6db5953473, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialSpeed: 10
-  increaseSpeed: 1.25
+  initialSpeed: 1
+  increaseSpeed: 1
   allowMovement: 1
   allowRotation: 1
   forwardButton: 119
@@ -223,7 +222,7 @@ MonoBehaviour:
   rightButton: 100
   leftButton: 97
   cursorSensitivity: 0.015
-  cursorToggleAllowed: 1
+  cursorToggleAllowed: 0
   cursorToggleButton: 27
 --- !u!1 &4695985012024240668
 GameObject:

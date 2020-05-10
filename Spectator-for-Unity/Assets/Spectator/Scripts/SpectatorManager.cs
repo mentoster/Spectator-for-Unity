@@ -13,25 +13,22 @@ public class SpectatorManager : MonoBehaviour
      private TMP_Text textWhatSkinNow;
      private TMP_InputField chatBox;
      public GameObject UiPrefab;
-     public Camera cameraToLookAt;
-     public float timeForCloud = 15;
      
      public string[] SkinsName=new string[3];
 
      [Header("Settings")]
-     #region Settings
+     public Camera cameraToLookAt;
+     public float timeForCloud = 15;
      public KeyCode changeSkin = KeyCode.E;
      public KeyCode sayButton = KeyCode.T;
      public bool rotation = false;
-     #endregion
-     
-     private Animator _skinAnimator;
-   
+
+
      private int _whatSkinNow = 0;
-     private bool _seeChat=false;
+      private bool _seeChat=false;
      //it is necessary for the text to disappear on the last message
-     private int _textInCloud;
-    
+      private int _textInCloud;
+      private Animator _skinAnimator;
     void Start()
     {   //Activating multi-display support
         Debug.Log ("displays connected: " + Display.displays.Length);
@@ -72,7 +69,6 @@ public class SpectatorManager : MonoBehaviour
             cloud.SetActive(true);
             _seeChat = !_seeChat;
             Invoke("offCloud", timeForCloud);
-            //i
             _textInCloud++;
         }
     }
