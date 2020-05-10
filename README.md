@@ -24,7 +24,10 @@ ____
 - [X] 3 skins.
 - [X] Text that tells you about the skin that is currently being used.
 - [X] Rotation block.
-
+- How scpectatorUI looks :
+- ![uispect](https://i.paste.pics/b4aec58a72523d0187c8dd37a00d9c1d.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
+- example video:
+- [![video](https://i9.ytimg.com/vi/hdMNClTBxqI/mq1.jpg?sqp=COen4fUF&rs=AOn4CLBybKIC6Ob3E8CWhwukni0tg9DGVA)](https://youtu.be/hdMNClTBxqI)
 ## Settings
 ![settings photo](https://i.paste.pics/8XKD3.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
 ____
