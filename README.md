@@ -33,7 +33,7 @@ ____
 ____
 ## Version support: **2018.4.18f and higher.**
 ### Installation:
-1. Open [releases](https://github.com/mentoster/Spectator-for-Unity/releasess)
+1. Open [releases](https://github.com/mentoster/Spectator-for-Unity/releases)
 2. Download the SpectatorScript.unitypackage package when unity is open.
 3. Allow import in the unity editor. (If you don't need a camera controller, disable Ghost script import)
 - :warning: **You must have the TMP package in your project for correct work!**
