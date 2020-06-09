@@ -33,7 +33,7 @@ namespace Invector.vCharacterController
         {
             cc.UpdateMotor();               // updates the ThirdPersonMotor methods
             cc.ControlLocomotionType();     // handle the controller locomotion type and movespeed
-            cc.ControlRotationType();       // handle the controller rotation type
+            cc.ControlRotationType();       // handle the controller skinRotation type
         }
 
         protected virtual void Update()
