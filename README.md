@@ -13,8 +13,6 @@ ____
            - You can also block the sprite's rotation! 
      3. Perhaps you would like to give advice to the player, or make jokes about him?... Yes! You also can do it! Use (default  T-button):
           - Chatclouds!
-             - ![eyesay](https://i.paste.pics/688c6e9ba46010c995069cdd6036e5b8.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
-             - ![slishem](https://i.paste.pics/7381c062b145cef92888e6705cc81346.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
 ____
 ## Version support: **2018.4.18f and higher.**
 ## Installation:
