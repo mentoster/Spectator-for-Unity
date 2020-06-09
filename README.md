@@ -13,32 +13,26 @@ ____
            - You can also block the sprite's rotation! 
      3. Perhaps you would like to give advice to the player, or make jokes about him?... Yes! You also can do it! Use (default  T-button):
           - Chatclouds!
-             - ![eyesay](https://i.paste.pics/688c6e9ba46010c995069cdd6036e5b8.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
-             - ![slishem](https://i.paste.pics/7381c062b145cef92888e6705cc81346.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
-____
-## What is made. v1.0
-- [X] The inclusion of all the PC displays in the game.
-- [X] Spectator controller.
-- [X] Chat inputfield.
-- [X] Chat cloud and text in it.
-- [X] 3 skins.
-- [X] Text that tells you about the skin that is currently being used.
-- [X] Rotation block.
-- How scpectatorUI looks :
-- ![uispect](https://i.paste.pics/b4aec58a72523d0187c8dd37a00d9c1d.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
-- example video:
-- [![video](https://i9.ytimg.com/vi/hdMNClTBxqI/mq1.jpg?sqp=COen4fUF&rs=AOn4CLBybKIC6Ob3E8CWhwukni0tg9DGVA)](https://youtu.be/hdMNClTBxqI)
-## Settings
-![settings photo](https://i.paste.pics/8XKD3.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
 ____
 ## Version support: **2018.4.18f and higher.**
-### Installation:
+## Installation:
 1. Open [releases](https://github.com/mentoster/Spectator-for-Unity/releases)
 2. Download the SpectatorScript.unitypackage package when unity is open.
 3. Allow import in the unity editor. (If you don't need a camera controller, disable Ghost script import)
 - :warning: **You must have the TMP package in your project for correct work!**
-### How to use:
+## How to use:
 1. Drag the Spectator prefab to the scene.
 2. Configure your settings.
 3. Set the display, what you need for Spectator.
 4. Fine! All works. 
+# Settings
+ 1. To change the delay between the user and the server, go to **Spectator->Network Manager->Sync freguency** (only server can change)
+- ![server](https://i.paste.pics/b4aec58a72523d0187c8dd37a00d9c1d.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
+- and go to **Spectator->Game View Encoder->interval**
+- ![encoder](https://i.paste.pics/b4aec58a72523d0187c8dd37a00d9c1d.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
+2. To change the resolution  go to **Spectator->Game View Encoder->resolution** (only server can change)
+- u can also change quality
+- ![encoder](https://i.paste.pics/b4aec58a72523d0187c8dd37a00d9c1d.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
+3. U can unblock skin rotation
+**Spectator->Spectator Manager->skin rotation**
+- ![controller](https://i.paste.pics/b4aec58a72523d0187c8dd37a00d9c1d.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
