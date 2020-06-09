@@ -7,9 +7,9 @@ ____
      1. Travel with the controller!
      2. Perhaps you would like to show where you are?  So do it! Use (default  E-button)>:
            - Skins:
-             - ![eye](https://i.paste.pics/8XKJS.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
-              - ![svidetel](https://i.paste.pics/0aba3064db6d8161c811feca6d19ccc6.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
-              - ![rodinaslishat](https://i.paste.pics/edac8ad2f8b1329adc14b274fca3e81e.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
+             - ![eye](https://media.githubusercontent.com/media/mentoster/Spectator-for-Unity/master/images/eye.png) 
+             - ![svidetel](https://media.githubusercontent.com/media/mentoster/Spectator-for-Unity/master/images/svid.png)
+             - ![rodinaslishat](https://media.githubusercontent.com/media/mentoster/Spectator-for-Unity/master/images/Spy.png)
            - You can also block the sprite's rotation! 
      3. Perhaps you would like to give advice to the player, or make jokes about him?... Yes! You also can do it! Use (default  T-button):
           - Chatclouds!
@@ -27,12 +27,12 @@ ____
 4. Fine! All works. 
 # Settings
  1. To change the delay between the user and the server, go to **Spectator->Network Manager->Sync freguency** (only server can change)
-- ![server](https://i.paste.pics/b4aec58a72523d0187c8dd37a00d9c1d.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
+- ![server](https://media.githubusercontent.com/media/mentoster/Spectator-for-Unity/master/images/server.png)
 - and go to **Spectator->Game View Encoder->interval**
-- ![encoder](https://i.paste.pics/b4aec58a72523d0187c8dd37a00d9c1d.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
+- ![encoder](https://media.githubusercontent.com/media/mentoster/Spectator-for-Unity/master/images/videoEncoder.png)
 2. To change the resolution  go to **Spectator->Game View Encoder->resolution** (only server can change)
 - u can also change quality
-- ![encoder](https://i.paste.pics/b4aec58a72523d0187c8dd37a00d9c1d.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
+- ![encoder](https://media.githubusercontent.com/media/mentoster/Spectator-for-Unity/master/images/videoEncoder.png)
 3. U can unblock skin rotation
 **Spectator->Spectator Manager->skin rotation**
-- ![controller](https://i.paste.pics/b4aec58a72523d0187c8dd37a00d9c1d.png?trs=c20137f25a53302b144519b0e21925df54abd0e15535cb9adb257e6f8fe460b7)
+- ![controller](https://media.githubusercontent.com/media/mentoster/Spectator-for-Unity/master/images/controller.png)
