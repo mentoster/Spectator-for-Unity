@@ -32,11 +32,6 @@ ____
 - ![controller](https://media.githubusercontent.com/media/mentoster/Spectator-for-Unity/master/images/controller.png)
 ____
 # INFO for client
-## Variant 1
-1. Open [releases](https://github.com/mentoster/Spectator-for-Unity/releases)
-2. Download compiled project and run it.
-3. Done.
-## Variant 2 (better, becouse u can change settings, ports)
 ### Installation:
 1. Open [releases](https://github.com/mentoster/Spectator-for-Unity/releases)
 2. Crate unity project (2019.3.10f and higher).
