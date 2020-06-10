@@ -34,7 +34,7 @@ ____
 # INFO for client
 ## Variant 1
 1. Open [releases](https://github.com/mentoster/Spectator-for-Unity/releases)
-2. Download compiled project and run it.
+2. Download compiled project and  unzip it, run client.
 3. Done.
 ## Variant 2 (better, becouse u can change settings, ports)
 1. Open [releases](https://github.com/mentoster/Spectator-for-Unity/releases)
