@@ -16,7 +16,7 @@ ____
 ## Поддержка версий : 2018.4.18 f и выше.
 ## Установка:
 1. Открыть [релизы](https://github.com/mentoster/Spectator-for-Unity/releases)
-2. Загрузите пакет spectatorServer,откройте его, когда unity будет открыт.
+2. Загрузить пакет spectatorServer, откройте его, когда unity будет открыт.
 - :warning: **для корректной работы в вашем проекте необходимо иметь пакет TMP!**
 ## Как использовать:
 1. Перетащите prefab spectator на сцену.
@@ -35,7 +35,7 @@ ____
 2. Загрузите compiled project и разархивируйте его, запустите.
 3. Круто, у вас получилось!.
 ## Вариант 2 (получше, потому что вы можете изменить настройки, порты)
-1. Открыть [релизы](https://github.com/mentoster/Spectator-for-Unity/releases)
+1. Открыть [релизы](https://github.com/mentoster/Spectator-for-Unity/releases) и загрузить spectatorClient
 2. Создать проект unity ( версия 2019.3.10 f и выше).
 3. Откройте  spectatorClient, когда проект открыт.
 - :warning: **для корректной работы в вашем проекте необходимо иметь пакет TMP!**
