@@ -1,4 +1,5 @@
 # Spectator-for-Unity
+Инструкции на русском - [README-RUS](https://github.com/mentoster/Spectator-for-Unity/blob/master/README-RU.md.md)
 ## For what it's made
  1. This asset was made for spectators, they can watch the player while he is playing the game.
  2. But it's probably not very interesting? Yes!
